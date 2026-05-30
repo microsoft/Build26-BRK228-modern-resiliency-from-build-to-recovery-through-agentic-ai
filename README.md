@@ -48,9 +48,9 @@ Modern resiliency requires us to start, get, and stay resilient, from infrastruc
 ### 🚀 Getting started
 
 If you're following these steps at your own pace:
-- Clone this repository
-- Set up your development environment
-- <!-- step 3 -->
+- Review the session summary in [docs/index.md](docs/index.md)
+- Explore the technology overviews in the **💻 Technologies Used** section
+- Continue with the resources in **📚 Resources and Next Steps**
 
 ### 🧠 Learning Outcomes
 
